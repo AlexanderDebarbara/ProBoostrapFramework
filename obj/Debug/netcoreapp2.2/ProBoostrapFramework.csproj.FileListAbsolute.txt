@@ -22,3 +22,4 @@ C:\VisualStudioProjects\ProBoostrapFramework\obj\Debug\netcoreapp2.2\Razor\Views
 C:\VisualStudioProjects\ProBoostrapFramework\obj\Debug\netcoreapp2.2\ProBoostrapFramework.RazorTargetAssemblyInfo.cs
 C:\VisualStudioProjects\ProBoostrapFramework\obj\Debug\netcoreapp2.2\ProBoostrapFramework.Views.pdb
 C:\VisualStudioProjects\ProBoostrapFramework\obj\Debug\netcoreapp2.2\ProBoostrapFramework.csproj.CopyComplete
+C:\VisualStudioProjects\ProBoostrapFramework\obj\Debug\netcoreapp2.2\Razor\Views\Home\CheckRadio.g.cshtml.cs
